@@ -27,6 +27,10 @@ Following the previous step I test API POST, PUT, and DELETE routes in Insomnia 
 
 This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
+## Creator
+
+Bruno Rosarini
+
 ## Contributing
 
 Austin Grech
